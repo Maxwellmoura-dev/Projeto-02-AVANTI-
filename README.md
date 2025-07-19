@@ -40,6 +40,3 @@ Este projeto simula uma **ferramenta de consulta de usuários do GitHub**, utili
 ---
 
 <img width="1612" height="887" alt="image" src="https://github.com/user-attachments/assets/f64af062-5e75-4458-8b78-a7265bccd655" />
-
-## 🧱 Estrutura de Pastas
-
